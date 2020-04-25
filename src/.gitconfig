@@ -1,0 +1,11 @@
+[user]
+  email = johan5045@gmail.com
+  name = Haruki Jozuka
+[core]
+  editor = vim -c \"set fenc=utf-8\"
+  pager = less -cm
+  quotepath = false
+[push]
+  default = simple
+[commit]
+  template = ~/dotfiles/src/commit_template
