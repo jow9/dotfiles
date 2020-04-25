@@ -1,2 +1,2 @@
 # dotfiles
-First commit is forxed sititou70/dotfiles.
+First commit is forked sititou70/dotfiles.
